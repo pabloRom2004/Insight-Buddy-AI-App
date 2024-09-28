@@ -1,11 +1,14 @@
-# Your Electron App Name
+# InsightBuddy AI
 
-Brief description of your app and its purpose.
+## How to Install app and How to use it
+[Watch Demo on YouTube](https://www.youtube.com/watch?v=your_video_id)
 
-## Quick Links
+## Download Links
 
-- [Download for Windows](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.0/InsightBuddy-AI-Setup-1.0.0.exe) <!-- Replace # with the direct download link -->
-- [Download for Mac](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.0/InsightBuddy.AI-1.0.0-arm64.dmg) <!-- Replace # with the direct download link -->
+### Windows
+- [InsightBuddy AI for WINDOWS](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.0/InsightBuddy-AI-Setup-1.0.0.exe) <!-- Replace # with the direct download link -->
+### Mac
+- [InsightBuddy AI for MAC](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.0/InsightBuddy.AI-1.0.0-arm64.dmg) <!-- Replace # with the direct download link -->
 - [Watch Demo on YouTube](https://www.youtube.com/watch?v=your_video_id)
 
 ## Screenshots
