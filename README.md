@@ -41,4 +41,5 @@ You will need to install the app to your 'Applications' folder by dragging it to
 # References
 
 Please cite our paper if you use this toolkit. 
-“**INSIGHTBUDDY-AI**: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning”, 2024. Pablo Romero, Lifeng Han, Goran Nenadic. Forthcoming.
+
+**INSIGHTBUDDY-AI**: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning”, 2024. Pablo Romero, Lifeng Han, Goran Nenadic. Forthcoming.
