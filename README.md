@@ -1,5 +1,5 @@
 # InsightBuddy AI 👩‍⚕️
-
+Software made by Pablo Romero pablo2004romero@gmail.com
 ![Screenshot 1](BuddyScreenShots/Screenshot3.png)
 
 
@@ -37,3 +37,8 @@ You will need to install the app to your 'Applications' folder by dragging it to
 ![Screenshot 2](BuddyScreenShots/Screenshot2.png)
 
 ![Screenshot 3](BuddyScreenShots/Screenshot4.png)
+
+# References
+
+Please cite our paper if you use this toolkit. 
+“**INSIGHTBUDDY-AI**: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning”, 2024. Pablo Romero, Lifeng Han, Goran Nenadic. Forthcoming.
