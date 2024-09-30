@@ -43,3 +43,8 @@ You will need to install the app to your 'Applications' folder by dragging it to
 Please cite our paper if you use this toolkit. 
 
 **INSIGHTBUDDY-AI**: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning”, 2024. Pablo Romero, Lifeng Han, Goran Nenadic. Forthcoming.
+
+Huge thank you to **Xenova Transformers.js** for making this project a reality!
+
+https://github.com/xenova/transformers.js
+https://huggingface.co/docs/transformers.js/en/index
