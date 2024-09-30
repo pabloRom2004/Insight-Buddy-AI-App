@@ -8,7 +8,7 @@ Software made by Pablo Romero pablo2004romero@gmail.com
 
 ## How to Install and Use App! 👨‍🏫
 
-[Youtube Tutorial](https://www.youtube.com/watch?v=4NKpcHdxeko&ab_channel=PabloRomero)
+<a href="https://www.youtube.com/watch?v=4NKpcHdxeko&ab_channel=PabloRomero" target="_blank">Youtube Tutorial</a>
 
 Watch this video to learn how to install and use InsightBuddy AI, it is really easy and quick to set up!
 
