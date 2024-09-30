@@ -16,10 +16,10 @@ Watch this video to learn how to install and use InsightBuddy AI, it is really e
 ## Download Links 😊
 
 ### Windows 💻
-- [InsightBuddy AI for WINDOWS](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.0/InsightBuddy-AI-Setup-1.0.0.exe)
+- [InsightBuddy AI for WINDOWS](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.1/InsightBuddy-AI-Setup-1.0.1.exe)
 
 ### Mac 🍎
-- [InsightBuddy AI for MAC](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.0/InsightBuddy.AI-1.0.0-arm64.dmg)
+- [InsightBuddy AI for MAC](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.1/InsightBuddy.AI-1.0.1-arm64.dmg)
 
 Do note that the app does not have a signing certificate yet, this means that you will need to take some extra steps in order to download it onto your computer
 #### On Windows:
