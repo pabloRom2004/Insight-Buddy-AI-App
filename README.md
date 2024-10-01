@@ -19,14 +19,14 @@ Watch this video to learn how to install and use InsightBuddy AI, it is really e
 - [InsightBuddy AI for WINDOWS](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.1/InsightBuddy-AI-Setup-1.0.1.exe)
 
 ### Mac 🍎
-- [InsightBuddy AI for MAC](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.0/InsightBuddy.AI-1.0.0-arm64.dmg)
+- [InsightBuddy AI for MAC](https://github.com/pabloRom2004/Insight-Buddy-AI-App/releases/download/1.0.1/InsightBuddy-AI-1.0.1-arm64.dmg)
 
 Do note that the app does not have a signing certificate yet, this means that you will need to take some extra steps in order to download it onto your computer
 #### On Windows:
 ![Screenshot 1](BuddyScreenShots/WindowsProtection.png)
 There will be a screen that appears telling you that the app is unrecognised, you will need to click on 'More Info' under the text and then a button will appear that says 'Run Anyway' you will need to click this to install the software.
 #### Mac:
-You will need to install the app to your 'Applications' folder by dragging it to the folder after it has been downloaded and then navigate to your applications folder and right-click and click 'Open' this will come up with a security warning, but you are safe to keep going.
+The Mac app is now signed. After downloading, you may see a warning that the app is from the internet. Simply click 'Open' to proceed with the installation. This warning cannot be avoided and is standard for apps downloaded outside the App Store.
 
 
 
@@ -44,7 +44,7 @@ Please cite our paper if you use this toolkit.
 
 **INSIGHTBUDDY-AI**: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning”, 2024. Pablo Romero, Lifeng Han, Goran Nenadic. Forthcoming.
 
-Huge thank you to **Xenova Transformers.js** for making this project a reality!
+A huge thank you to **Xenova Transformers.js** for making this project a reality!
 
-https://github.com/xenova/transformers.js
-https://huggingface.co/docs/transformers.js/en/index
+Xenova Transformers.js: https://github.com/xenova/transformers.js
+Hugging Face Transformers.js documentation: https://huggingface.co/docs/transformers.js/en/index"
