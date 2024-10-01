@@ -1,5 +1,7 @@
 # InsightBuddy AI 👩‍⚕️
-Software made by Pablo Romero pablo2004romero@gmail.com
+Software developed by Pablo Romero during a 3-month summer internship. This project was undertaken as an extension after completing the primary internship objectives within 2 months. The final month was dedicated to developing this software, despite no prior experience with Electron, JavaScript, or HTML. A lot of help from Claude and ChatGPT!
+Contact: pablo2004romero@gmail.com
+
 ![Screenshot 1](BuddyScreenShots/Screenshot3.png)
 
 
