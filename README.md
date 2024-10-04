@@ -48,6 +48,16 @@ Please cite our paper if you use this toolkit.
 
 **INSIGHTBUDDY-AI**: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning”, 2024. Pablo Romero, Lifeng Han, Goran Nenadic. Forthcoming.
 
+@misc{romero2024insightbuddyaimedicationextractionentity,
+      title={INSIGHTBUDDY-AI: Medication Extraction and Entity Linking using Large Language Models and Ensemble Learning}, 
+      author={Pablo Romero and Lifeng Han and Goran Nenadic},
+      year={2024},
+      eprint={2409.19467},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.19467}, 
+}
+
 A huge thank you to **Xenova Transformers.js** for making this project a reality!
 
 Xenova Transformers.js: https://github.com/xenova/transformers.js
