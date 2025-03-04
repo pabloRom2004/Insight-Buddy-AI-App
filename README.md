@@ -55,7 +55,7 @@ Please cite our paper if you use this toolkit.
       eprint={2409.19467},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2409.19467}, 
+      url={[https://arxiv.org/abs/2409.19467](https://arxiv.org/abs/2409.19467) }, 
 }
 
 A huge thank you to **Xenova Transformers.js** for making this project a reality!
